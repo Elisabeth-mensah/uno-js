@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2024-02-08T08:50:00.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Z_U56n348Im6F6zr4aA-" version="23.1.2" type="device">
+  <diagram name="Pagina-1" id="G2WcnufmXyJeerqcNPcw">
+    <mxGraphModel dx="1002" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L3T2Oq2BrkUxsIICl3AK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L3T2Oq2BrkUxsIICl3AK-7" target="L3T2Oq2BrkUxsIICl3AK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L3T2Oq2BrkUxsIICl3AK-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Start&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L3T2Oq2BrkUxsIICl3AK-5" value="Einde" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="L3T2Oq2BrkUxsIICl3AK-8" value="kaarten schudden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L3T2Oq2BrkUxsIICl3AK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L3T2Oq2BrkUxsIICl3AK-1" target="L3T2Oq2BrkUxsIICl3AK-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="90" as="sourcePoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L3T2Oq2BrkUxsIICl3AK-7" value="Haal kaarten uit de doos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
